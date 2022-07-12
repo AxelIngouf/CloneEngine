@@ -1,0 +1,23 @@
+
+        int integer = -7;unsigned int
+
+ unsignedInteger = 5;
+        float floatingPoint
+ = 1.7f; double doubleFloatingPoint = 1.7e303;
+ char character = '\t';// comment/*
+        long // other*/
+	 long // int
+        longLong = -1234567890123456789;
+        unsigned long long unsignedLongLong = -1;
+        char_32/*intruder*/constCharPtr = "custom \"\x73tring\"";
+
+
+     /*   int integer = garbage;
+        unsigned int unsignedInteger = 2;
+        float /*floatingPoint = f4.2;
+ //       double doubleFloatingPoint = ;
+        char character;*/
+        //long long longLong;
+        //unsigned long long /*unsignedLongLong;
+      /*  const char* constCharPtr;*/
+int m_private = 3;

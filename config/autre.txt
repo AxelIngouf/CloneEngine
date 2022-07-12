@@ -1,0 +1,2 @@
+int value = 2;
+float fvalue = 5.5f;

@@ -1,0 +1,6 @@
+[submodule "extern"]
+	path = extern
+	url = ssh://git@git.isartintra.com:2424/2020/MTL_LibMaths/GPM2_LRQWFLUT.git
+[submodule "extern/math"]
+	path = extern/math
+	url = ssh://git@git.isartintra.com:2424/2020/MTL_LibMaths/GPM2_LRQWFLUT.git

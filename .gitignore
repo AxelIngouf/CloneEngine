@@ -1,0 +1,6 @@
+build
+doc
+extern
+Logs
+
+render/sources/shaders/compile.bat
